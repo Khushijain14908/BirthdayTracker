@@ -2,7 +2,7 @@
 //  BirthdayTrackerApp.swift
 //  BirthdayTracker
 //
-//  Created by Scholar on 7/25/25.
+//  Created by Khushi Jain on 7/25/25.
 //
 
 import SwiftUI
